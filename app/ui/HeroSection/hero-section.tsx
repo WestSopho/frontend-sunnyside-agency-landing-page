@@ -9,8 +9,9 @@ export default function HeroSection(){
             <Image 
             src="/mobile/image-header.jpg"
             alt="hero"
-            width={1440}
-            height={400}
+            width={750}
+            height={1076}
+            quality={100}
             className='w-full sm:hidden'
             />
 
@@ -18,8 +19,9 @@ export default function HeroSection(){
             <Image
             src="/desktop/image-header.jpg"
             alt="hero"
-            width={1440}
-            height={400}
+            width={2880}
+            height={1600}
+            quality={100}
             className='w-full hidden sm:block'
             />
 

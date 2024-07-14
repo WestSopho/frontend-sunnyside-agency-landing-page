@@ -14,15 +14,17 @@ export default function GridSection(){
                     <Image
                         src="/desktop/image-transform.jpg"
                         alt="Picture of the author"
-                        width={500}
-                        height={500}
+                        width={720}
+                        height={600}
+                        quality={100}
                         className="hidden size-full object-cover sm:block"
                     />
                     <Image
                         src="/mobile/image-transform.jpg"
                         alt="Picture of the author"
-                        width={500}
-                        height={500}
+                        width={750}
+                        height={624}
+                        quality={100}
                         className="size-full object-cover sm:hidden"
                     />
                 </div>
@@ -36,15 +38,17 @@ export default function GridSection(){
                     <Image
                     src="/desktop/image-stand-out.jpg"
                     alt="Picture of the author"
-                    width={500}
-                    height={500}
+                    width={720}
+                    height={600}
+                    quality={100}
                     className="hidden size-full object-cover sm:block"
                     />
                     <Image
                         src="/mobile/image-stand-out.jpg"
                         alt="Picture of the author"
-                        width={500}
-                        height={500}
+                        width={750}
+                        height={624}
+                        quality={100}
                         className="size-full object-cover sm:hidden"
                     />
                 </div>
@@ -57,15 +61,17 @@ export default function GridSection(){
                     <Image
                         src="/desktop/image-graphic-design.jpg"
                         alt="Picture of the author"
-                        width={500}
-                        height={500}
+                        width={720}
+                        height={600}
+                        quality={100}
                         className="hidden size-full object-cover sm:block"
                     />
                     <Image
                         src="/mobile/image-graphic-design.jpg"
                         alt="Picture of the author"
-                        width={500}
-                        height={500}
+                        width={750}
+                        height={1200}
+                        quality={100}
                         className="size-full object-cover sm:hidden"
                     />
                     <AbsoluteTextBlock title="Graphic Design" description="Great design makes you memorable. We deliver artwork that underscores your brand message and captures potential clients’ attention."/>
@@ -76,15 +82,17 @@ export default function GridSection(){
                     <Image
                         src="/desktop/image-photography.jpg"
                         alt="Picture of the author"
-                        width={500}
-                        height={500}
+                        width={720}
+                        height={600}
+                        quality={100}
                         className="hidden size-full object-cover sm:block"
                     />
                     <Image
                         src="/mobile/image-photography.jpg"
                         alt="Picture of the author"
-                        width={500}
-                        height={500}
+                        width={750}
+                        height={1200}
+                        quality={100}
                         className="size-full object-cover sm:hidden"
                     />
                     <AbsoluteTextBlock title="Photography" description="Increase your credibility by getting the most stunning, high-quality photos that improve your business image."/>

@@ -8,15 +8,17 @@ export default function GallerySection(){
                 <Image
                     src="/mobile/image-gallery-milkbottles.jpg"
                     alt="image gallery milkbottles mobile"
-                    width={500}
-                    height={500}
+                    width={376}
+                    height={376}
+                    quality={100}
                     className='size-full sm:hidden'
                 />
                 <Image
                     src="/desktop/image-gallery-milkbottles.jpg"
                     alt="image gallery milkbottles desktop"
-                    width={500}
-                    height={500}
+                    width={720}
+                    height={894}
+                    quality={100}
                     className='hidden size-full sm:block'
                 />
             </div>
@@ -26,15 +28,17 @@ export default function GallerySection(){
                 <Image
                     src="/mobile/image-gallery-orange.jpg"
                     alt="image gallery orange mobile"
-                    width={500}
-                    height={500}
+                    width={376}
+                    height={376}
+                    quality={100}
                     className='size-full sm:hidden'
                 />
                 <Image
                     src="/desktop/image-gallery-orange.jpg"
                     alt="image gallery orange desktop"
-                    width={500}
-                    height={500}
+                    width={720}
+                    height={894}
+                    quality={100}
                     className='hidden size-full sm:block'
                 />
             </div>
@@ -44,15 +48,17 @@ export default function GallerySection(){
                 <Image
                     src="/mobile/image-gallery-cone.jpg"
                     alt="image gallery cone mobile"
-                    width={500}
-                    height={500}
+                    width={376}
+                    height={376}
+                    quality={100}
                     className='size-full sm:hidden'
                 />
                 <Image
                     src="/desktop/image-gallery-cone.jpg"
                     alt="image gallery cone desktop"
-                    width={500}
-                    height={500}
+                    width={720}
+                    height={894}
+                    quality={100}
                     className='hidden size-full sm:block'
                 />
             </div>
@@ -62,15 +68,17 @@ export default function GallerySection(){
                 <Image
                     src="/mobile/image-gallery-sugar-cubes.jpg"
                     alt="image gallery sugar cubes mobile"
-                    width={500}
-                    height={500}
+                    width={376}
+                    height={376}
+                    quality={100}
                     className='size-full sm:hidden'
                 />
                 <Image
                     src="/desktop/image-gallery-sugarcubes.jpg"
                     alt="image gallery sugar cubes desktop"
-                    width={500}
-                    height={500}
+                    width={720}
+                    height={894}
+                    quality={100}
                     className='hidden size-full sm:block'
                 />
             </div>
