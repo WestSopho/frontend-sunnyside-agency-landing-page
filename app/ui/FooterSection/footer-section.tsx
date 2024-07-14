@@ -5,7 +5,7 @@ import {logo_path} from "@/app/lib/paths";
 export default function FooterSection(){
     return(
         <div className='py-16 px-5 sm:p-16 bg-[#90D4C6] flex justify-center items-center'>
-            <div className="flex flex-col justify-around items-center gap-7">
+            <div className="flex flex-col justify-around items-center gap-16">
                 {/* Footer Logo and Links Wrapper */}
                 <div className="space-y-7">
 
